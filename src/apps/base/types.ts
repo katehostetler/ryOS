@@ -28,6 +28,7 @@ export interface BaseApp<TInitialData = unknown> {
     | "control-panels"
     | "minesweeper"
     | "finder"
+    | "weather"
     | "paint"
     | "videos"
     | "pc"

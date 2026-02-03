@@ -99,32 +99,9 @@ export default defineConfig({
       // framer-motion is used on initial load for animations
       "framer-motion",
     ],
-    // Exclude heavy deps from initial pre-bundling to reduce memory
-    // These will be bundled on-demand when their apps are opened
-    // Note: AI SDK removed from exclude to fix ESM/CJS compatibility with @vercel/oidc
-    exclude: isDev ? [
-      // Audio libs - only needed when Soundboard/iPod/Synth/Karaoke opens
-      "tone",
-      "wavesurfer.js",
-      "audio-buffer-utils",
-      // 3D rendering - only needed when PC app opens
-      "three",
-      // Rich text editor - only needed when TextEdit opens
-      "@tiptap/core",
-      "@tiptap/react",
-      "@tiptap/starter-kit",
-      "@tiptap/pm",
-      // Video player - only needed when Videos app opens
-      "react-player",
-      // Realtime chat - only needed when Chats opens
-      "pusher-js",
-      // Chinese/Japanese text processing - only needed for lyrics features
-      "pinyin-pro",
-      "wanakana",
-      "hangul-romanization",
-      // QR codes - only needed for specific features
-      "qrcode.react",
-    ] : [],
+    // Note: exclude list removed to fix ESM/CJS compatibility issues
+    // All deps will be pre-bundled which uses more memory but avoids import errors
+    exclude: [],
   },
   plugins: [
     // Serve static docs HTML files (before SPA fallback kicks in)

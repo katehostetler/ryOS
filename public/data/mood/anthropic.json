@@ -1,0 +1,126 @@
+{
+  "company": "Anthropic",
+  "lastUpdated": "2026-02-01T07:21:43.463520Z",
+  "sentiment": {
+    "score": 0.014,
+    "label": "cautious"
+  },
+  "posts": [
+    {
+      "title": "Claude on Mars",
+      "date": "2026-01-30",
+      "url": "https://www.anthropic.com/mars",
+      "summary": "The first AI-assisted drive on another planet. Claude helped NASA\u2019s Perseverance rover travel four hundred meters on Mars."
+    },
+    {
+      "title": "Introducing Claude Opus 4.5",
+      "date": "2025-11-24",
+      "url": "https://www.anthropic.com/news/claude-opus-4-5",
+      "summary": ""
+    },
+    {
+      "title": "Introducing Claude Sonnet",
+      "date": "2025-09-29",
+      "url": "https://www.anthropic.com/news/claude-sonnet-4-5",
+      "summary": ""
+    },
+    {
+      "title": "Introducing Claude Haiku",
+      "date": "2025-10-15",
+      "url": "https://www.anthropic.com/news/claude-haiku-4-5",
+      "summary": ""
+    },
+    {
+      "title": "Anthropic raises $13B Series F at $183B post-money valuation",
+      "date": "2025-09-02",
+      "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+      "summary": ""
+    },
+    {
+      "title": "ServiceNow chooses Claude to power customer apps and increase internal",
+      "date": "2026-01-28",
+      "url": "https://www.anthropic.com/news/servicenow-anthropic-claude",
+      "summary": ""
+    },
+    {
+      "title": "Anthropic partners with the UK Government to bring AI assistance to GOV.UK",
+      "date": "2026-01-27",
+      "url": "https://www.anthropic.com/news/gov-UK-partnership",
+      "summary": ""
+    },
+    {
+      "title": "Claude's new constitution",
+      "date": "2026-01-22",
+      "url": "https://www.anthropic.com/news/claude-new-constitution",
+      "summary": ""
+    },
+    {
+      "title": "Mariano-Florentino Cu\u00e9llar appointed to Anthropic\u2019s Long-Term Benefit Trust",
+      "date": "2026-01-21",
+      "url": "https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust",
+      "summary": ""
+    },
+    {
+      "title": "Anthropic and Teach For All launch global AI training initiative for educators",
+      "date": "2026-01-21",
+      "url": "https://www.anthropic.com/news/anthropic-teach-for-all",
+      "summary": ""
+    },
+    {
+      "title": "Anthropic appoints Irina Ghose as Managing Director of India ahead of Bengaluru",
+      "date": "2026-01-16",
+      "url": "https://www.anthropic.com/news/anthropic-appoints-irina-ghose-as-managing-director-of-india",
+      "summary": ""
+    },
+    {
+      "title": "How scientists are using Claude to accelerate research and discovery",
+      "date": "2026-01-15",
+      "url": "https://www.anthropic.com/news/accelerating-scientific-research",
+      "summary": ""
+    },
+    {
+      "title": "Introducing Labs",
+      "date": "2026-01-13",
+      "url": "https://www.anthropic.com/news/introducing-anthropic-labs",
+      "summary": ""
+    },
+    {
+      "title": "Responsible Scaling",
+      "date": "",
+      "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+      "summary": ""
+    }
+  ],
+  "history": [
+    0.011,
+    0.011,
+    0.011,
+    0.011,
+    0.011,
+    0.011,
+    0.011,
+    0.011,
+    0.011,
+    0.011,
+    0.011,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.034,
+    0.045,
+    0.045,
+    0.045,
+    0.045,
+    0.034,
+    0.045,
+    0.0,
+    0.0,
+    0.0
+  ]
+}

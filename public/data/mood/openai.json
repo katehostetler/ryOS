@@ -1,0 +1,162 @@
+{
+  "company": "OpenAI",
+  "lastUpdated": "2026-02-01T07:21:42.208785Z",
+  "sentiment": {
+    "score": 0.068,
+    "label": "cautious"
+  },
+  "posts": [
+    {
+      "title": "Inside OpenAI\u2019s in-house data agent",
+      "date": "2026-01-29",
+      "url": "https://openai.com/index/inside-our-in-house-data-agent",
+      "summary": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes."
+    },
+    {
+      "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
+      "date": "2026-01-29",
+      "url": "https://openai.com/index/taisei",
+      "summary": "Taisei Corporation uses ChatGPT Enterprise to support HR-led talent development and scale generative AI across its global construction business."
+    },
+    {
+      "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+      "date": "2026-01-29",
+      "url": "https://openai.com/index/retiring-gpt-4o-and-older-models",
+      "summary": "On February 13, 2026, alongside the previously announced retirement\u2060 of GPT\u20115 (Instant, Thinking, and Pro), we will retire GPT\u20114o, GPT\u20114.1, GPT\u20114.1 mini, and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time."
+    },
+    {
+      "title": "The next chapter for AI in the EU",
+      "date": "2026-01-28",
+      "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+      "summary": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe."
+    },
+    {
+      "title": "EMEA Youth & Wellbeing Grant",
+      "date": "2026-01-28",
+      "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+      "summary": "Apply for the EMEA Youth & Wellbeing Grant, a \u20ac500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI."
+    },
+    {
+      "title": "Keeping your data safe when an AI agent clicks a link",
+      "date": "2026-01-28",
+      "url": "https://openai.com/index/ai-agent-link-safety",
+      "summary": "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards."
+    },
+    {
+      "title": "PVH reimagines the future of fashion with OpenAI",
+      "date": "2026-01-27",
+      "url": "https://openai.com/index/pvh-future-of-fashion",
+      "summary": "PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consumer engagement."
+    },
+    {
+      "title": "Introducing Prism",
+      "date": "2026-01-27",
+      "url": "https://openai.com/index/introducing-prism",
+      "summary": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place."
+    },
+    {
+      "title": "Powering tax donations with AI powered personalized recommendations",
+      "date": "2026-01-27",
+      "url": "https://openai.com/index/trustbank",
+      "summary": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery. A multi-agent system helps donors navigate thousands of options and find gifts that match their preferences."
+    },
+    {
+      "title": "How Indeed uses AI to help evolve the job search",
+      "date": "2026-01-26",
+      "url": "https://openai.com/index/indeed-maggie-hulce",
+      "summary": "Indeed\u2019s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers."
+    },
+    {
+      "title": "Unrolling the Codex agent loop",
+      "date": "2026-01-23",
+      "url": "https://openai.com/index/unrolling-the-codex-agent-loop",
+      "summary": "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API."
+    },
+    {
+      "title": "Scaling PostgreSQL to power 800 million ChatGPT users",
+      "date": "2026-01-22",
+      "url": "https://openai.com/index/scaling-postgresql",
+      "summary": "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation."
+    },
+    {
+      "title": "Inside Praktika's conversational approach to language learning",
+      "date": "2026-01-22",
+      "url": "https://openai.com/index/praktika",
+      "summary": "How Praktika uses GPT-4.1 and GPT-5.2 to build adaptive AI tutors that personalize lessons, track progress, and help learners achieve real-world language fluency"
+    },
+    {
+      "title": "Inside GPT-5 for Work: How Businesses Use GPT-5",
+      "date": "2026-01-22",
+      "url": "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work",
+      "summary": "A data-driven report on how workers across industries use ChatGPT\u2014covering adoption trends, top tasks, departmental patterns, and the future of AI at work."
+    },
+    {
+      "title": "How Higgsfield turns simple ideas into cinematic social videos",
+      "date": "2026-01-21",
+      "url": "https://openai.com/index/higgsfield",
+      "summary": "Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2."
+    },
+    {
+      "title": "How countries can end the capability overhang",
+      "date": "2026-01-21",
+      "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
+      "summary": "Our latest report reveals stark differences in advanced AI adoption across countries and outlines new initiatives to help nations capture productivity gains from AI."
+    },
+    {
+      "title": "Introducing Edu for Countries",
+      "date": "2026-01-21",
+      "url": "https://openai.com/index/edu-for-countries",
+      "summary": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces."
+    },
+    {
+      "title": "Horizon 1000: Advancing AI for primary healthcare",
+      "date": "2026-01-20",
+      "url": "https://openai.com/index/horizon-1000",
+      "summary": "OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa. The initiative aims to reach 1,000 clinics by 2028."
+    },
+    {
+      "title": "Stargate Community",
+      "date": "2026-01-20",
+      "url": "https://openai.com/index/stargate-community",
+      "summary": "Stargate Community plans detail a community-first approach to AI infrastructure, using locally tailored plans shaped by community input, energy needs, and workforce priorities."
+    },
+    {
+      "title": "Cisco and OpenAI redefine enterprise engineering with AI agents",
+      "date": "2026-01-20",
+      "url": "https://openai.com/index/cisco",
+      "summary": "Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development."
+    }
+  ],
+  "history": [
+    0.05,
+    0.05,
+    0.05,
+    0.05,
+    0.05,
+    0.183,
+    0.175,
+    0.16,
+    0.16,
+    0.16,
+    0.137,
+    0.178,
+    0.132,
+    0.07,
+    0.13,
+    0.13,
+    0.114,
+    0.126,
+    0.082,
+    0.095,
+    0.111,
+    0.079,
+    0.079,
+    0.084,
+    0.077,
+    0.091,
+    0.092,
+    0.062,
+    0.068,
+    0.068
+  ]
+}

@@ -3,6 +3,7 @@ import { useThemeStore } from "@/stores/useThemeStore";
 
 export type AppId =
   | "finder"
+  | "weather"
   | "soundboard"
   | "internet-explorer"
   | "chats"
@@ -126,6 +127,7 @@ export function getTranslatedHelpItems(appId: AppId): Array<{
 }> {
   const helpKeys: Record<AppId, string[]> = {
     finder: ["browseNavigate", "fileManagement", "viewSort", "quickAccess", "storageInfo", "trash"],
+    weather: ["weatherOverview", "signalBreakdown", "peerComparison", "recentActivity"],
     soundboard: ["recordSlot", "keyboardPlay", "waveformView", "customizeSlot", "multipleBoards", "importExport"],
     "internet-explorer": ["browseWeb", "travelThroughTime", "historyReimagined", "saveFavorites", "exploreTimeNodes", "shareJourney"],
     chats: ["chatWithRyo", "createEditFiles", "controlApps", "joinChatRooms", "pushToTalk", "nudgeDjMode"],

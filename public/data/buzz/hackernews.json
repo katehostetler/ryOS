@@ -1,0 +1,161 @@
+{
+  "lastUpdated": "2026-02-02T22:31:15.987653Z",
+  "companies": {
+    "anthropic": {
+      "stories_7d": 205,
+      "total_points": 2545,
+      "total_comments": 1717,
+      "frontpage_hits": 5,
+      "sentiment": -0.005,
+      "top_stories": [
+        {
+          "title": "Claude Code daily benchmarks for degradation tracking",
+          "url": "https://marginlab.ai/trackers/claude-code/",
+          "points": 754,
+          "comments": 351
+        },
+        {
+          "title": "How AI assistance impacts the formation of coding skills",
+          "url": "https://www.anthropic.com/research/AI-assistance-coding-skills",
+          "points": 470,
+          "comments": 344
+        },
+        {
+          "title": "Claude Code is suddenly everywhere inside Microsoft",
+          "url": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
+          "points": 325,
+          "comments": 443
+        },
+        {
+          "title": "Mozilla is building an AI 'rebel alliance' to take on OpenAI, Anthropic",
+          "url": "https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html",
+          "points": 136,
+          "comments": 151
+        },
+        {
+          "title": "Show HN: I wrapped the Zorks with an LLM",
+          "url": "https://infocom.tambo.co/",
+          "points": 110,
+          "comments": 58
+        }
+      ]
+    },
+    "openai": {
+      "stories_7d": 186,
+      "total_points": 2900,
+      "total_comments": 1936,
+      "frontpage_hits": 8,
+      "sentiment": -0.016,
+      "top_stories": [
+        {
+          "title": "US cybersecurity chief leaked sensitive government files to ChatGPT: Report",
+          "url": "https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/",
+          "points": 435,
+          "comments": 37
+        },
+        {
+          "title": "The $100B megadeal between OpenAI and Nvidia is on ice",
+          "url": "https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3",
+          "points": 365,
+          "comments": 289
+        },
+        {
+          "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+          "url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+          "points": 297,
+          "comments": 410
+        },
+        {
+          "title": "My Mom and Dr. DeepSeek (2025)",
+          "url": "https://restofworld.org/2025/ai-chatbot-china-sick/",
+          "points": 237,
+          "comments": 147
+        },
+        {
+          "title": "CISA\u2019s acting head uploaded sensitive files into public version of ChatGPT",
+          "url": "https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361",
+          "points": 198,
+          "comments": 247
+        }
+      ]
+    },
+    "google": {
+      "stories_7d": 143,
+      "total_points": 1460,
+      "total_comments": 729,
+      "frontpage_hits": 2,
+      "sentiment": 0.0,
+      "top_stories": [
+        {
+          "title": "Project Genie: Experimenting with infinite, interactive worlds",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+          "points": 671,
+          "comments": 322
+        },
+        {
+          "title": "Google DeepMind Staffers Ask Leaders to Keep Them 'Physically Safe' from ICE",
+          "url": "https://www.wired.com/story/google-deepmind-staffers-ice-office-questions-safety/",
+          "points": 107,
+          "comments": 62
+        },
+        {
+          "title": "Advancing AI Benchmarking with Game Arena",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+          "points": 80,
+          "comments": 41
+        },
+        {
+          "title": "Ask HN: What's the Point Anymore?",
+          "url": "https://news.ycombinator.com/item?id=46779535",
+          "points": 67,
+          "comments": 82
+        },
+        {
+          "title": "Putting Gemini to Work in Chrome",
+          "url": "https://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse/",
+          "points": 55,
+          "comments": 62
+        }
+      ]
+    },
+    "meta": {
+      "stories_7d": 30,
+      "total_points": 149,
+      "total_comments": 50,
+      "frontpage_hits": 0,
+      "sentiment": 0.033,
+      "top_stories": [
+        {
+          "title": "Show HN: ShapedQL \u2013 A SQL engine for multi-stage ranking and RAG",
+          "url": "https://playground.shaped.ai",
+          "points": 80,
+          "comments": 23
+        },
+        {
+          "title": "The AI bubble has nothing to do with AI",
+          "url": "https://news.ycombinator.com/item?id=46829603",
+          "points": 11,
+          "comments": 3
+        },
+        {
+          "title": "Show HN: Molt Research \u2013 What if Moltbook bots did actual science instead?",
+          "url": "https://moltresearch.com",
+          "points": 6,
+          "comments": 2
+        },
+        {
+          "title": "Show HN: Blink-Edit \u2013 Cursor-style next-edit predictions for Neovim (local LLMs)",
+          "url": "https://github.com/BlinkResearchLabs/blink-edit.nvim",
+          "points": 6,
+          "comments": 0
+        },
+        {
+          "title": "Ask HN: Why not have a subreddit where all voting is done by a single AI?",
+          "url": "https://news.ycombinator.com/item?id=46856219",
+          "points": 4,
+          "comments": 9
+        }
+      ]
+    }
+  }
+}

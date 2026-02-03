@@ -22,11 +22,12 @@ const apps: AnyApp[] = Object.values(appRegistry);
 
 export function App() {
   const { t } = useTranslation();
-  const { isFirstBoot, setHasBooted, setLastSeenDesktopVersion } = useAppStoreShallow(
+  const { isFirstBoot, setHasBooted, setLastSeenDesktopVersion, launchApp } = useAppStoreShallow(
     (state) => ({
       isFirstBoot: state.isFirstBoot,
       setHasBooted: state.setHasBooted,
       setLastSeenDesktopVersion: state.setLastSeenDesktopVersion,
+      launchApp: state.launchApp,
     })
   );
   const displayMode = useDisplaySettingsStoreShallow((state) => state.displayMode);
@@ -88,8 +89,10 @@ export function App() {
     // Set first boot flag without showing boot screen
     if (isFirstBoot) {
       setHasBooted();
+      // Launch weather app on first boot
+      launchApp("weather");
     }
-  }, [isFirstBoot, setHasBooted]);
+  }, [isFirstBoot, setHasBooted, launchApp]);
 
   // Show download toast for macOS users when new desktop version is available
   // For web: show on first visit and updates

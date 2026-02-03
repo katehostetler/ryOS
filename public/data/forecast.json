@@ -1,0 +1,121 @@
+{
+  "lastUpdated": "2026-02-02T22:31:27.339010Z",
+  "forecast": {
+    "anthropic": {
+      "weather": "cloudy",
+      "weather_info": {
+        "icon": "cloudy",
+        "emoji": "cloudy",
+        "label": "Cloudy",
+        "description": "Below average performance"
+      },
+      "score": 0.59,
+      "signals": {
+        "sentiment": {
+          "value": 0.5,
+          "vs_peers": "-0.03"
+        },
+        "shipping": {
+          "value": 0.48,
+          "vs_peers": "+0.04"
+        },
+        "market": {
+          "value": null,
+          "vs_peers": null
+        },
+        "competitive": {
+          "value": 0.8,
+          "vs_peers": "+0.16"
+        }
+      },
+      "summary": "Outperforming on competitive"
+    },
+    "openai": {
+      "weather": "cloudy",
+      "weather_info": {
+        "icon": "cloudy",
+        "emoji": "cloudy",
+        "label": "Cloudy",
+        "description": "Below average performance"
+      },
+      "score": 0.51,
+      "signals": {
+        "sentiment": {
+          "value": 0.51,
+          "vs_peers": "-0.02"
+        },
+        "shipping": {
+          "value": 0.43,
+          "vs_peers": "-0.01"
+        },
+        "market": {
+          "value": 0.28,
+          "vs_peers": "-0.26"
+        },
+        "competitive": {
+          "value": 0.82,
+          "vs_peers": "+0.19"
+        }
+      },
+      "summary": "Outperforming on competitive"
+    },
+    "google": {
+      "weather": "cloudy",
+      "weather_info": {
+        "icon": "cloudy",
+        "emoji": "cloudy",
+        "label": "Cloudy",
+        "description": "Below average performance"
+      },
+      "score": 0.65,
+      "signals": {
+        "sentiment": {
+          "value": 0.54,
+          "vs_peers": "+0.01"
+        },
+        "shipping": {
+          "value": 0.67,
+          "vs_peers": "+0.23"
+        },
+        "market": {
+          "value": 0.62,
+          "vs_peers": "+0.08"
+        },
+        "competitive": {
+          "value": 0.75,
+          "vs_peers": "+0.12"
+        }
+      },
+      "summary": "Outperforming on shipping, competitive"
+    },
+    "meta": {
+      "weather": "rainy",
+      "weather_info": {
+        "icon": "stormy",
+        "emoji": "rainy",
+        "label": "Rainy",
+        "description": "Concerning trends emerging"
+      },
+      "score": 0.41,
+      "signals": {
+        "sentiment": {
+          "value": 0.56,
+          "vs_peers": "+0.03"
+        },
+        "shipping": {
+          "value": 0.19,
+          "vs_peers": "-0.25"
+        },
+        "market": {
+          "value": 0.73,
+          "vs_peers": "+0.19"
+        },
+        "competitive": {
+          "value": 0.17,
+          "vs_peers": "-0.47"
+        }
+      },
+      "summary": "Outperforming on market"
+    }
+  }
+}

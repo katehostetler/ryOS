@@ -1,0 +1,102 @@
+{
+  "company": "Meta AI",
+  "lastUpdated": "2026-02-01T07:21:42.811056Z",
+  "sentiment": {
+    "score": 0.196,
+    "label": "confident"
+  },
+  "posts": [
+    {
+      "title": "Learn More",
+      "date": "",
+      "url": "https://ai.meta.com/blog/introducing-pytorch-native-agentic-stack/",
+      "summary": ""
+    },
+    {
+      "title": "Learn More",
+      "date": "",
+      "url": "https://ai.meta.com/blog/open-sourcing-ax-and-botorch-new-ai-tools-for-adaptive-experimentation/",
+      "summary": ""
+    },
+    {
+      "title": "Learn More",
+      "date": "",
+      "url": "https://ai.meta.com/blog/practical-ai-agent-security/",
+      "summary": ""
+    },
+    {
+      "title": "Learn More",
+      "date": "",
+      "url": "https://ai.meta.com/blog/segment-anything-model-3/",
+      "summary": ""
+    },
+    {
+      "title": "Learn More",
+      "date": "",
+      "url": "https://ai.meta.com/blog/omnilingual-asr-advancing-automatic-speech-recognition/",
+      "summary": ""
+    },
+    {
+      "title": "Learn More",
+      "date": "",
+      "url": "https://ai.meta.com/blog/sam-3d/",
+      "summary": ""
+    },
+    {
+      "title": "Learn More",
+      "date": "",
+      "url": "https://ai.meta.com/blog/orakl-oncology-dinov2-accelerating-cancer-treatment/",
+      "summary": ""
+    },
+    {
+      "title": "FEATURED",
+      "date": "",
+      "url": "https://ai.meta.com/blog/sam-audio/",
+      "summary": ""
+    },
+    {
+      "title": "The Latest",
+      "date": "",
+      "url": "https://ai.meta.com/blog/",
+      "summary": ""
+    },
+    {
+      "title": "2026: AI Drives Performance",
+      "date": "2026-01-29",
+      "url": "https://about.fb.com/news/2026/01/2026-ai-drives-performance/",
+      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"501\" src=\"https://about.fb.com/wp-content/uploads/2026/01/Meta_Thumbnail.jpg?fit=890%2C501\" style=\"margin-bottom: 15px;\" width=\"890\" /></div>\n<p>We're sharing a look at how AI is driving value for the people and businesses that use our apps, and in turn fueling our business.\u00a0\u00a0</p>\n<p>The post <a href=\"https://about.fb.com/news/2026/01/2026-ai-drives-performance/\">2026: AI Drives Performance</a> appeared first on <a href=\""
+    }
+  ],
+  "history": [
+    0.196,
+    0.196,
+    0.196,
+    0.196,
+    0.196,
+    0.165,
+    0.165,
+    0.114,
+    0.114,
+    0.114,
+    0.117,
+    0.117,
+    0.093,
+    0.093,
+    0.115,
+    0.115,
+    0.115,
+    0.106,
+    0.106,
+    0.244,
+    0.244,
+    0.383,
+    0.383,
+    0.383,
+    0.383,
+    0.297,
+    0.254,
+    0.253,
+    0.253,
+    0.253
+  ]
+}

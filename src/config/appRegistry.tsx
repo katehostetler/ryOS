@@ -195,6 +195,11 @@ const LazyInfiniteMacApp = createLazyComponent<unknown>(
   "infinite-mac"
 );
 
+const LazyWeatherApp = createLazyComponent<unknown>(
+  () => import("@/apps/weather/components/WeatherAppComponent").then(m => ({ default: m.WeatherAppComponent })),
+  "weather"
+);
+
 // ============================================================================
 // APP METADATA (loaded eagerly - small)
 // ============================================================================
@@ -222,6 +227,7 @@ import {
   helpItems as infiniteMacHelpItems,
   DEFAULT_WINDOW_SIZE_WITH_TITLEBAR as infiniteMacDefaultSize,
 } from "@/apps/infinite-mac";
+import { appMetadata as weatherMetadata, helpItems as weatherHelpItems } from "@/apps/weather";
 
 // ============================================================================
 // APP REGISTRY
@@ -240,6 +246,19 @@ export const appRegistry = {
     windowConfig: {
       defaultSize: { width: 400, height: 300 },
       minSize: { width: 300, height: 200 },
+    } as WindowConstraints,
+  },
+  ["weather"]: {
+    id: "weather",
+    name: "AI Weather",
+    icon: { type: "image", src: "/icons/weather.png" },
+    description: "Track the climate of artificial intelligence",
+    component: LazyWeatherApp,
+    helpItems: weatherHelpItems,
+    metadata: weatherMetadata,
+    windowConfig: {
+      defaultSize: { width: 900, height: 700 },
+      minSize: { width: 700, height: 500 },
     } as WindowConstraints,
   },
   ["soundboard"]: {

@@ -1,0 +1,162 @@
+{
+  "company": "Google DeepMind",
+  "lastUpdated": "2026-02-01T07:21:42.672142Z",
+  "sentiment": {
+    "score": 0.169,
+    "label": "confident"
+  },
+  "posts": [
+    {
+      "title": "Project Genie: Experimenting with infinite, interactive worlds",
+      "date": "2026-01-29",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+      "summary": "Text reads Introducing Project Genie"
+    },
+    {
+      "title": "Google AI Plus is now available everywhere our AI plans are available, including the U.S.",
+      "date": "2026-01-27",
+      "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Plus_Hero_Visual_2096.max-600x600.format-webp_4ffr2GI.webp\" />We\u2019re launching Google AI Plus in 35 new countries and territories including the US, making it available everywhere Google AI plans are available."
+    },
+    {
+      "title": "Just ask anything: a seamless new Search experience",
+      "date": "2026-01-27",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-ai-overviews-updates/",
+      "summary": "A centered, elongated oval shape resembling a search bar with the text \"Ask anything\" inside it."
+    },
+    {
+      "title": "In our latest podcast, hear how the \u201cSmoke Jumpers\u201d team brings Gemini to billions of people.",
+      "date": "2026-01-27",
+      "url": "https://blog.google/products-and-platforms/products/gemini/release-notes-podcast-smokejumpers/",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/thumbnails_EP24_002_ccRelease_N.max-600x600.format-webp.webp\" />Bringing Gemini to billions of users requires a massive, coordinated infrastructure effort. In the latest episode of the Google AI: Release Notes podcast, host Logan Kil\u2026"
+    },
+    {
+      "title": "How animators and AI researchers made \u2018Dear Upstairs Neighbors\u2019",
+      "date": "2026-01-26",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/dear-upstairs-neighbors/",
+      "summary": "A movie poster for a film titled \u201cDear Upstairs Neighbors\u201d, hand-painted in a vivid expressionist style, featuring an exasperated cartoon woman clutching her ears, surrounded by neon-colored images of noisy things like howling dogs and stomping shoes"
+    },
+    {
+      "title": "Personal Intelligence in AI Mode in Search: Help that's uniquely yours",
+      "date": "2026-01-22",
+      "url": "https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/",
+      "summary": "Screenshot of the AI Mode page with the text, \"Hi Lukas what's on your mind?\""
+    },
+    {
+      "title": "Building a community-led future for AI in film with Sundance Institute",
+      "date": "2026-01-20",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/sundance-institute-ai-education/",
+      "summary": "Illustration of a cinematographer filming with a professional video camera mounted on a tripod, positioned next to a studio light and a film clapboard."
+    },
+    {
+      "title": "How Nano Banana got its name",
+      "date": "2026-01-15",
+      "url": "https://blog.google/products-and-platforms/products/gemini/how-nano-banana-got-its-name/",
+      "summary": "A Nano Banana-generated image showing yellow bananas spelling out 'Nano Banana' on a bed of additional yellow bananas"
+    },
+    {
+      "title": "Learners and educators are AI\u2019s new \u201csuper users\u201d",
+      "date": "2026-01-15",
+      "url": "https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/",
+      "summary": "Teacher using a computer with students"
+    },
+    {
+      "title": "Introducing Community Benchmarks on Kaggle",
+      "date": "2026-01-14",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-community-benchmarks/",
+      "summary": "A drawing of three people working on laptops, with one person's screen showing \"Kaggle Benchmark Results\" with \"Gemini XXXX\" and a large \"PASS\" checkmark.1"
+    },
+    {
+      "title": "Announcing the winner of the Global AI Film Award",
+      "date": "2026-01-14",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-middle-east/winner-of-the-global-ai-film-award/",
+      "summary": "Zoubeir Jlassi reacts with surprise on stage at the AI Film Awards for the film \"Lily\" by Zoubeir Jlassi. He stands by a trophy podium while Anthony Nakache claps. The background shows the film's title and poster."
+    },
+    {
+      "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+      "date": "2026-01-13",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/",
+      "summary": "A collage of various generated images, including an astronaut on Mars, a raccoon barista, a person in a hallway, a fantasy cityscape, and a close-up of coffee art, with the text \"Veo 3.1 Ingredients to Video\" overlayed."
+    },
+    {
+      "title": "2025 at Google",
+      "date": "2025-12-09",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/look-back-2025/",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EOY_2025_Header.max-600x600.format-webp.webp\" />Learn more about Google\u2019s launches, milestones and more from 2025."
+    },
+    {
+      "title": "The Google guide for holiday help",
+      "date": "2025-11-25",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/holiday-planning-ai-gemini-tips/",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Collection_header.max-600x600.format-webp.webp\" />Learn more about using Google products like Gemini, Search, Shopping, Pixel and more over the holidays."
+    },
+    {
+      "title": "Investing in America 2025",
+      "date": "2025-11-17",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/investing-in-america-2025/",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/InvestinginAmerica_CollectionHe.max-600x600.format-webp.webp\" />Google\u2019s deep investments in American technical infrastructure, R&amp;D and the workforce will help the U.S. continue to lead the world in AI."
+    },
+    {
+      "title": "I/O 2025",
+      "date": "2025-05-20",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2025-collection/",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO25_hero.max-600x600.format-webp.webp\" />We\u2019re doing cutting-edge research to build the most helpful AI that\u2019s more intelligent, agentic and personalized."
+    },
+    {
+      "title": "Google Cloud Next 25",
+      "date": "2025-04-09",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/next-2025/",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cloud_Collection_Hero.max-600x600.format-webp.webp\" />Here\u2019s a look at what we announced at Google Cloud Next 25."
+    },
+    {
+      "title": "The Check Up with Google",
+      "date": "2025-03-18",
+      "url": "https://blog.google/innovation-and-ai/technology/health/google-health-check-up-2025/",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CheckUpCollectionHeader.max-600x600.format-webp.webp\" />At The Check Up 2025, we shared more about the potential of AI in health and our latest health AI research, partnership and product updates."
+    },
+    {
+      "title": "New AI features and more for Android and Pixel",
+      "date": "2024-12-05",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-android-ai-updates-december-2024/",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/12-05-24_Collection_Hero.max-600x600.format-webp.webp\" />Learn more about the latest Pixel and Android updates, featuring the latest in Google AI innovation."
+    },
+    {
+      "title": "The AI for Science Forum: A new era of discovery",
+      "date": "2024-11-18",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-science-forum-2024/",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIFS_Collection_Hero.max-600x600.format-webp.webp\" />Google DeepMind and the Royal Society are co-hosting the AI for Science Forum to explore how AI is rapidly accelerating science."
+    }
+  ],
+  "history": [
+    0.222,
+    0.222,
+    0.222,
+    0.222,
+    0.222,
+    0.222,
+    0.222,
+    0.222,
+    0.222,
+    0.222,
+    0.222,
+    0.25,
+    0.155,
+    0.14,
+    0.14,
+    0.14,
+    0.14,
+    0.14,
+    0.115,
+    0.12,
+    0.157,
+    0.157,
+    0.157,
+    0.157,
+    0.146,
+    0.222,
+    0.222,
+    0.185,
+    0.185,
+    0.185
+  ]
+}
